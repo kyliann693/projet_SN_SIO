@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <link href="#">
+        <title>landing</title>
+    </head>
+    <body>      
+        <h1>Confirmez vos rendez-vous</h1>
+        <form method="post" action="#">
+            <table>
+                <tr>
+                    <th>Parents</th>
+                    <th>Confirmer</th>
+                    <th>Annulez</th>
+                    <th>Reportez</th>
+                </tr>
+                <tr class="assignation">
+                <td>Parent1</td>
+                <td>
+                    <button><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABcklEQVRIie2Wyy4DYRiGn39mZFKLVlKnHRpBtBLUIRa2VqqNWIjDJbCRII4VS8LG3sIFNHoTWHANKgRdTKutxsjEWDCJwyiVmcTCs50vz/v9b/78GRFLxKoMYe5higjgxRlyApIyzCiv8kmHxBZeE6YMMKXXzV1BwIiEc7V8wgSf5Jbc4j8ARVJo9Da4E6DKKmt9y+wMbtFV0+lsgCqrLPcuEvIH0XSNVO7Cdk75rXypZ4GQP0jmIUv8ZBNN12xnvzxBwNfEwdA+E63jtpt3VIfQdI2V4zUuC1dfLlOyIlVWGWseZbpt8p3cqmX1KM71/U0pBXLLeFvc7kNGz3KeTzFQ30/Q345H8RANRMqSA4jhRMwsNRCu7WY+PEeFVPES/JBl/WSjZC1v+fYWnabP2D7bxXgyftT5R749gUVdZS1Fo0j+sfBjOZRxTW+L6bLEFn//LfoTATm35ALuJAFJtwJMSCoyzBhgAlEc/G0BDhWYfQbFcHok4+zpVAAAAABJRU5ErkJggg=="></button>
+                </td>
+                <td>
+                    <button><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAB80lEQVQ4jWNgoBbY7+DAcTEoaOEZFxd+fOouenvrXAwJmQjjMzEwMDBs8/RkF5eRWadsbh7HIyW1/Zi7uxA2zRd8fbV5ZGRWKhgbZ16LjJwNN0CMgUGGk4dHiZmNjUHOwMBSSFx8M7pLLvn76/LLyKyW0tDQYmVnZ2ViYdE64+vLxcTAwMBgsn373Y9PnwY/u3HjGiMjI4OcgYEVn7T09sM2NoIwm7klJFZIqKlp/v//n+HRhQvHX9+/72OyefM3RnQn8kpJrZLS0ND6//8/w5OLF49/evmyTFBefiZM7NGFC8df37vnbXvkyHsGBgYGFANgTuWVll4loaqq8f//f4b3jx+/FZKTE4ZqPvbl2TMvkz17PsLUYxgAc4mAjMwKcTU1HQYGBob///8zPL5w4dhnNM3wQKQEYBhwyd9fl19Wdo24mprO////Gd49evSWkZGRQdbAwIpHSmobeuygGAAPbaj/n1y8ePz59esByLHDIyW1/WRgoDCGAdhi4OXdu94mO3Yc+fzsWRiSIZb8vLybYYYwMjAwMJzx9FQWlpffKqGuro4rtC/5++vySkmthKeF8+ePffnwwZWJgYGBgZOH5/H3L1/u/f31CxbPPuihrbdx4+WPT56EPrt+/ervHz9+//vz56rJ5s3f4ArIzUwUAwAjEvUyo59AjAAAAABJRU5ErkJggg=="></button>
+                </td>
+                <td>
+                    <button>Reportez</button>
+                </td>
+                </tr>
+            </table>
+            <div>
+            </div>
+        </form>
+    </body>
+</html>
